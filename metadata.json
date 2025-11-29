@@ -1,0 +1,7 @@
+{
+  "name": "Jarvis Holographic Interface",
+  "description": "An immersive augmented reality particle system controlled by hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
