@@ -1,12 +1,13 @@
 <div align="center">
-   <img width="1915" height="858" alt="Jarvis Interface Demo 1" src="https://github.com/user-attachments/assets/96e980f1-b61f-428e-a2ef-52dcf8a2165d" />
-   <img width="1916" height="857" alt="Jarvis Interface Demo 2" src="https://github.com/user-attachments/assets/b9cbb5af-e67a-4652-9b5c-a39546945ae2" />
 
 # J.A.R.V.I.S. Holographic Interface
 ### Immersive Augmented Reality Particle System
+   <img width="1915" height="858" alt="Jarvis Interface Demo 1" src="https://github.com/user-attachments/assets/96e980f1-b61f-428e-a2ef-52dcf8a2165d" />
+   <img width="1916" height="857" alt="Jarvis Interface Demo 2" src="https://github.com/user-attachments/assets/b9cbb5af-e67a-4652-9b5c-a39546945ae2" />
 </div>
 
-**View your app in AI Studio:** [https://ai.studio/apps/drive/145FYDKxccvvs5aGZ5Evx5LcN6KpEkdOf](https://ai.studio/apps/drive/145FYDKxccvvs5aGZ5Evx5LcN6KpEkdOf)
+**Welcome to play:** [https://gemini-3d-particle-with-hand-motion.vercel.app/](https://gemini-3d-particle-with-hand-motion.vercel.app/)
+**View app in AI Studio:** [https://ai.studio/apps/drive/145FYDKxccvvs5aGZ5Evx5LcN6KpEkdOf](https://ai.studio/apps/drive/145FYDKxccvvs5aGZ5Evx5LcN6KpEkdOf)
 
 ## 🌌 Overview
 This project is a high-performance **Holographic Particle Interface** inspired by Iron Man's JARVIS. It utilizes **React**, **Three.js**, and **MediaPipe** to create a living, breathing 3D system that responds to your hand gestures, voice commands, and ambient audio in real-time.
@@ -42,6 +43,7 @@ Integrated Web Speech API allows for hands-free control.
 *   **3D Engine**: Three.js, React Three Fiber (@react-three/fiber)
 *   **AI/Tracking**: MediaPipe Hands
 *   **Styling**: Tailwind CSS, Lucide React (Icons)
+*   **Deploy**: Vercel
 
 ---
 
@@ -91,14 +93,23 @@ Integrated Web Speech API allows for hands-free control.
 3. Vercel will auto-detect **Vite**.
 4. Deploy.
 
-### Netlify
-1. Push code to GitHub.
-2. New Site from Git -> Select Repo.
-3. Build Command: `npm run build`
-4. Publish Directory: `dist`
-
 ---
 
-<div align="center">
-  <sub>Built with React Three Fiber & MediaPipe</sub>
-</div>
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Test thoroughly
+5. Submit a pull request
+
+## License
+
+This project is licensed under the MIT License.
+
+## Support
+
+For issues and questions:
+- Create an issue on GitHub
+- Check the troubleshooting section
+- Review the logs for error messages
