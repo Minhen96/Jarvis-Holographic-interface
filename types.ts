@@ -51,33 +51,4 @@ declare global {
     SpeechRecognition: any;
     Hands: any;
   }
-  
-  namespace JSX {
-    interface IntrinsicElements {
-      points: any;
-      pointsMaterial: any;
-      ambientLight: any;
-      pointLight: any;
-      color: any;
-      mesh: any;
-      planeGeometry: any;
-      meshBasicMaterial: any;
-    }
-  }
-}
-
-// Augment React's internal JSX namespace for newer React versions/configurations
-declare module 'react' {
-  namespace JSX {
-    interface IntrinsicElements {
-      points: any;
-      pointsMaterial: any;
-      ambientLight: any;
-      pointLight: any;
-      color: any;
-      mesh: any;
-      planeGeometry: any;
-      meshBasicMaterial: any;
-    }
-  }
 }
